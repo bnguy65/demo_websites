@@ -1,2 +1,3 @@
 # demo_websites
-personal website projects
+Certification projects from freecodecamp.org
+
